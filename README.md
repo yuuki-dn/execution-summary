@@ -7,3 +7,4 @@
 3. Run the command `run <your_target_command>`. After command finished you'll see your command's exit code and time taken.
 
 I think this will help you a lot if you're working with command line interface, or you're a competitive programmer.
+Feel free to make a pull request if you know a better way to make this program.
